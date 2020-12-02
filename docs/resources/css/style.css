@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+}
+body{
+    background-color: #000000;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a, img{
+    display: block;
+}
+a{
+    color: #7FFFD4;
+    font-size: 16px;
+    margin: 1rem;
+}
+img{
+    margin: 0 auto;
+}
+h1, img, h2, p{
+    margin-top: 1rem
+}
+p#footer{
+    float: right;
+    color: #808080;
+}
+i.material-icons{
+    font-size: 0.8rem;
+    margin-right: 0.2rem;
+}
+p{
+    font-size: 21px;
+    color: #808080;
+    margin-top: 2rem;
+}
+h2{
+    font-weight: 300;
+    font-size: 42px;
+    margin: 3rem;
+}
+h1{
+    font-size: 50px;
+}
